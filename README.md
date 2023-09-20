@@ -22,6 +22,6 @@ $ git clone git@github.com:Dong-Hyeon-Yu/CSED312-pintos.git pintos
 
 ```sh
 # add the command in .bashrc (or .zshrc)
-export PATH=~/pintos/src/utils:$PATH
+export PATH=$HOME/pintos/src/utils:$PATH
 ```
 
